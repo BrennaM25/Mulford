@@ -1,16 +1,16 @@
-objectid,filename,title,creator ,date,description ,subject ,location ,type,format,rights 
-mul001,IMG_0147.png,Niagara Falls ,"Mulford, Brenna",8/1/2017,Family vacation to See Niagara Falls.,Les Mulford; Jill Mulford; vacation,New York State,Image;Stillimage,image/png,Public domain.
-mul002,IMG_0611.png,NYE 24',"Mulford, Brenna",12/31/2024,Family celebration for the new year.,Les Mulford; Jill Mulford,"Dubuque, IA",Image;Stillimage,image/png,Public domain.
-mul003,IMG_2817.png,Wedding,"Mulford, Brenna",6/21/1986,My parents wedding.,Les Mulford; Jill Mulford,"Masonville, IA",Image;Stillimage,image/png,Public domain.
-mul004,IMG_2816.png,Aisle Wedding Walk,"Mulford, Brenna",6/21/1986,My parents aisle walk after being wed.,Les Mulford; Jill Mulford,"Masonville, IA",Image;Stillimage,image/png,Public domain.
-mul005,IMG_2815.png,Wedding and Family,"Mulford, Brenna",6/21/1986,My parents with their wedding party and close family.,Les Mulford; Jill Mulford,"Masonville, IA",Image;Stillimage,image/png,Public domain.
-mul006,IMG_2820.png,Honeymoon,"Mulford, Brenna",7/1/1986,My parents honeymoon to Philadelphia.,Les Mulford; Jill Mulford,Philadelphia,Image;Stillimage,image/png,Public domain.
-mul007,IMG_2932.png,Ball,"Mulford, Brenna",12/15/2017,A ball hosted by the university my mom worked at.,Les Mulford; Jill Mulford,"Dubuque, IA",Image;Stillimage,image/png,Public domain.
-mul008,IMG_1919.png,Campground,"Mulford, Brenna",7/13/2022,A family camping trip with friends.,Les Mulford; Jill Mulford,"Decorah, IA",Image;Stillimage,image/png,Public domain.
-mul009,IMG_2930.png,Vow Renewal,"Mulford, Brenna",6/21/2011,Vow renewal to celebrate twenty-five years of marriage.,Les Mulford; Jill Mulford,"Winthrop, IA",Image;Stillimage,image/png,Public domain.
-mul010,IMG_2933.png,Galena Vacation,"Mulford, Brenna",7/14/2023,A day trip to Galena.,Les Mulford; Jill Mulford,"Galena, IL",Image;Stillimage,image/png,Public domain.
-mul011,IMG_3420.png,Christmas Eve,"Mulford, Brenna",12/24/2022,Celebrating Christmas Eve.,Les Mulford; Jill Mulford,"Winthrop, IA",Image;Stillimage,image/png,Public domain.
-mul012,IMG_0869.png,St. Patricks ,"Mulford, Brenna",3/16/2024,Celebrating St. Patrick Day.,Les Mulford; Jill Mulford,"Prairie Du Chien, WI",Image;Stillimage,image/png,Public domain.
-mul013,IMG_1474.png,Washington State,"Mulford, Brenna",8/1/2024,Attending a family friends wedding.,Les Mulford; Jill Mulford,"Ruby Beach, WA",Image;Stillimage,image/png,Public domain.
-mul014,IMG_1508.png,Washington State,"Mulford, Brenna",8/1/2024,Attending a family friends wedding.,Les Mulford; Jill Mulford,"Ruby Beach, WA",Image;Stillimage,image/png,Public domain.
-mul015,IMG_1577.png,Washington State,"Mulford, Brenna",8/1/2024,Attending a family friends wedding.,Les Mulford; Jill Mulford,"Ruby Beach, WA",Image;Stillimage,image/png,Public domain.
+objectid,filename,title,format,description,creator,date,subject,location,rights,type
+mul001,IMG_0147.png,Niagara Falls,image/png,Family Vacation to See Niagara Falls.,"Mulford, Brenna",2017-08-01,Les Mulford; Jill Mulford; vacation,"Niagara Falls, NY",Public Domain,Image;StillImage
+mull002,IMG_0611.png,NYE 24,image/png,Family celebration for the new year.,"Mulford, Brenna",2024-12-31,Les Mulford; Jill Mulford,"Dubuque, IA",Public Domain,Image;StillImage
+mul003,IMG_2817.png,Wedding,image/png,My parents wedding.,"Mulford, Brenna",1986-06-21,Les Mulford; Jill Mulford,"Masonville, IA",Public Domain,Image;StillImage
+mull004,IMG_2816.png,Aisle Wedding Walk,image/png,My parents aisle walk after being wed.,"Mulford, Brenna",1986-06-21,Les Mulford; Jill Mulford,"Masonville, IA",Public Domain,Image;StillImage
+mul005,IMG_2815.png,Wedding and Family,image/png,My parents with their wedding party and close family.,"Mulford, Brenna",1986-06-21,Les Mulford; Jill Mulford,"Masonville, IA",Public Domain,Image;StillImage
+mull006,IMG_2820.png,Honeymoon,image/png,My parents honeymoon to Philadelphia.,"Mulford, Brenna",1986-07-01,Les Mulford; Jill Mulford,"Philadephia, PA",Public Domain,Image;StillImage
+mul007,IMG_2932.png,Ball,image/png,A ball hosted by the university my mom worked at.,"Mulford, Brenna",2017-12-15,Les Mulford; Jill Mulford,"Dubuque, IA",Public Domain,Image;StillImage
+mull008,IMG_1919.png,Campground,image/png,A family camping trip with friends.,"Mulford, Brenna",2022-07-13,Les Mulford; Jill Mulford,"Decorah, IA",Public Domain,Image;StillImage
+mul009,IMG_2930.png,Vow Renewal,image/png,Vow renewal to celebrate twenty-five years of marriage.,"Mulford, Brenna",2011-06-21,Les Mulford; Jill Mulford,"Winthrop, IA",Public Domain,Image;StillImage
+mull010,IMG_2933.png,Galena Vacataion,image/png,A day trip to Galena.,"Mulford, Brenna",2023-07-14,Les Mulford; Jill Mulford,"Galena, IL",Public Domain,Image;StillImage
+mul011,IMG_3420.png,Christmas Eve,image/png,Celebrating Christmas Eve.,"Mulford, Brenna",2022-12-24,Les Mulford; Jill Mulford,"Winthrop, IA",Public Domain,Image;StillImage
+mull012,IMG_0869.png,St. Patricks,image/png,Celebrating St. Patrick Day.,"Mulford, Brenna",2024-03-16,Les Mulford; Jill Mulford,"Prairie Du Chien, WI",Public Domain,Image;StillImage
+mul013,IMG_1474.png,Washington State 1,image/png,Attending a family friends wedding.,"Mulford, Brenna",2024-08-01,Les Mulford; Jill Mulford,"Ruby Beach, WA",Public Domain,Image;StillImage
+mul014,IMG_1508.png,Washington State 2,image/png,Attending a family friends wedding.,"Mulford, Brenna",2024-08-01,Les Mulford; Jill Mulford,"Ruby Beach, WA",Public Domain,Image;StillImage
+mul015,IMG_1577.png,Washington State 3,image/png,Attending a family friends wedding.,"Mulford, Brenna",2024-08-01,Les Mulford; Jill Mulford,"Ruby Beach, WA",Public Domain,Image;StillImage
